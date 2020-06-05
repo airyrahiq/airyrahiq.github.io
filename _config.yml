@@ -1,11 +1,11 @@
 # Site settings
-title: Dr. S. Ahmad's Blog
-description: "A personal blog of Dr. Md. Saju Ahmad for sharing Homeopathic principles."
-url: "https://blog.jannathomeo.org"
+title: Airy Passion .Com
+description: "আর্থিক স্বাধীনতা পেতে আপনার আবেগকে অনুসরণ করুন"
+url: "https://bn.airypassion.com"
 author:
-  name: "Dr. Md. Saju Ahmad"
-  email: "info.rahiq@gmail.com"
-  url: "https://jannathomeo.org"
+  name: "Sabber Ahmad Rahiq"
+  email: "rahi.hpathybd@gmail.com"
+  url: "https://airypassion.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
@@ -13,7 +13,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 8
+paginate: 7
 paginate_path: /page:num/
 
 # Default values
