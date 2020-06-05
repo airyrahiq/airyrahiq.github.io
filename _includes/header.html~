@@ -1,7 +1,0 @@
-<header id="header">
-	<a href="{{ site.url }}">
-	  <div style="font-size: xx-large;">Airy Passion .Com</div>
-	</a>
-<div></br></div>
-<div style="font-size: medium;">আর্থিক স্বাধীনতা পাবার জন্য নিজের আবেগকে অনুসরণ করুন</div>
-</header>
