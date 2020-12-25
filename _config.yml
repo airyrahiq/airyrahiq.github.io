@@ -1,10 +1,10 @@
 # Site settings
-title: Airy Passion .Com
-description: "আর্থিক স্বাধীনতা পেতে আপনার আবেগকে অনুসরণ করুন"
-url: "https://bn.airypassion.com"
+title: S. Ahmad Rahiq's Blog
+description: "আর্থিক স্বাধীনতা পেতে একটু প্রয়াস"
+url: "https://ahmadrahiq.github.io"
 author:
   name: "Sabber Ahmad Rahiq"
-  email: "rahi.hpathybd@gmail.com"
+  email: "rahiq@airypassion.com"
   url: "https://airypassion.com"
 
 # Build settings
