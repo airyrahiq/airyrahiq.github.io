@@ -8,5 +8,5 @@ Here you can get the latest news, information, announcement and updates of S. A.
 
 So, stay updated and be informed.
 
-Thanks
+Thanks<br>
 Sabber Ahmad Rahiq
