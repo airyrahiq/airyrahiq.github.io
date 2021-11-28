@@ -18,7 +18,7 @@ If the applicant do a good job, there is a possibility of more work in the futur
 - High Quality 
 - 100% Unique Content 
 - Minimum 1000+ words each. 
-- 2 days delivery time for each article. 
+- 3 days delivery time for each article. 
 
 ### Budget
 
