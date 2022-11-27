@@ -54,4 +54,4 @@ WhatsApp Number: **+8801726-860350**
 Thankfully,<br>
 Sabber Ahmad Rahiq<br>
 Founder<br>
-[Airy Passion .Com](https://airypassion.com)
+[Airy Passion .Com](https://www.airypassion.com)
