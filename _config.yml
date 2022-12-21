@@ -1,11 +1,11 @@
 # Site settings
 title: S. Ahmad Rahiq's Blog
 description: "সাব্বির আহমদ রাহিক প্রকাশিত ব্লগসমূহের বিভিন্ন খুঁটিনাটি বিষয়ক আলোচনা, ঘোষণা ও প্রতিক্রিয়া প্রকাশের মাধ্যম"
-url: "https://ahmadrahiq.github.io"
+url: "https://airyrahiq.github.io"
 author:
   name: "Sabber Ahmad Rahiq"
   email: "rahiq@airypassion.com"
-  url: "https://ahmadrahiq.github.io"
+  url: "https://airyrahiq.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
