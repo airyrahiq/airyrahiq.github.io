@@ -1,5 +1,5 @@
 ---
-title: Welcome To The Rahiq's Blog
+title: Rahiq's Doc's
 description: Here you can get the latest news, information, announcement and updates of S. A. Rahiq's recent activities.
 ---
 <p>Here you can get the latest news, information, announcement and updates of S. A. Rahiq's recent activities.</p>
