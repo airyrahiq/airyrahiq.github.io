@@ -2,18 +2,18 @@
 title: Welcome To The Rahiq's Blog
 description: Here you can get the latest news, information, announcement and updates of S. A. Rahiq's recent activities.
 ---
-Here you can get the latest news, information, announcement and updates of S. A. Rahiq's recent activities.
+<p>Here you can get the latest news, information, announcement and updates of S. A. Rahiq's recent activities.</p>
 
 ## Application Form in Doc Format
 <br>
-<a href="img/dr-shaheen.doc" target="_blank">Application Form (Doc)</a>
+<p><a href="img/dr-shaheen.doc" target="_blank">Application Form (Doc)</a></p>
 
 ## Application Form in PDF Format
 <br>
-<a href="img/dr-shaheen.pdf" target="_blank" title="Application Form (PDF)">Application Form (PDF)</a>
+<p><a href="img/dr-shaheen.pdf" target="_blank" title="Application Form (PDF)">Application Form (PDF)</a></p>
 
-<p><strong>Image For PP Photo</strong></p>
-
+## <strong>Image For PP Photo</strong>
+<br>
 <p><a href="img/jasim.jpg">Image of Dr. Jasim (PP Size Photo)</a></p>
 
 ## NID
@@ -26,10 +26,10 @@ Here you can get the latest news, information, announcement and updates of S. A.
 
 ## PP Images For B/A Creation
 <br>
-<a href="img/dr-saju.jpg" target="_blank">Dr Saju Ahammed</a>
+<p><a href="img/dr-saju.jpg" target="_blank">Dr Saju Ahammed</a></p>
 
 <a href="img/jeba.jpg" target="_blank">Jannat Ara Jeba</a>
 
 ## Presented By
 <br>
-**Dr. Md. Saju Ahmad**
+<p>**Dr. Md. Saju Ahmad**</p>
