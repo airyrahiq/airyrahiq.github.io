@@ -30,6 +30,10 @@ description: Here you can get the latest news, information, announcement and upd
 
 <a href="img/jeba.jpg" target="_blank">Jannat Ara Jeba</a>
 
+## SSC Exam Certificate 1997
+<br>
+<p><a href="img/ssc-exam-certificate.jpg" target="_blank">SSC Exam Certificate 1997</a></p>
+
 ## Presented By
 <br>
 **Md Sazu Ahammed**
