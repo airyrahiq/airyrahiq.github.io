@@ -33,6 +33,8 @@ description: Here you can get the latest news, information, announcement and upd
 
 <p><a href="img/sayma.jpg">Sayma'r Chobi For School</a></p>
 
+<p><a href="img/sayma1.jpg">Sayma'r Real Chobi For School</a></p>
+
 ## SSC Exam Certificate 1997
 <br>
 <p><a href="img/ssc-exam-certificate.jpg" target="_blank">SSC Exam Certificate 1997</a></p>
