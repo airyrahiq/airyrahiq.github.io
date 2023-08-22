@@ -24,11 +24,14 @@ description: Here you can get the latest news, information, announcement and upd
 
 <p><a href="img/sazu-ahammed-nid-backside.jpg">NID Back Side of Md Sazu Ahammed</a></p>
 
+
 ## PP Images For B/A Creation
 <br>
 <p><a href="img/dr-saju.jpg" target="_blank">Dr Saju Ahammed</a></p>
 
-<a href="img/jeba.jpg" target="_blank">Jannat Ara Jeba</a>
+<p><a href="img/jeba.jpg" target="_blank">Jannat Ara Jeba</a></p>
+
+<p><a href="img/sayma.jpg">Sayma'r Chobi For School</a></p>
 
 ## SSC Exam Certificate 1997
 <br>
